@@ -12,7 +12,9 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href="/"> STAPLES</Link>
+        <Link href="/">
+          <img src="/Logo_en_mb.svg" alt="staples _Logo"></img>
+        </Link>
       </p>
 
       <button

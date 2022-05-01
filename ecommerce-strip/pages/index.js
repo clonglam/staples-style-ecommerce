@@ -1,12 +1,16 @@
 import React from "react";
-import { Product, FooterBanner, HeroBanner } from "../components";
+import {
+  Product,
+  FooterBanner,
+  HeroBanner,
+  PromotionGrid,
+} from "../components";
 import { client } from "../lib/client";
 
-const Home = ({ products, bannerData }) => {
+const Home = ({ products, bannerData, promotionData }) => {
   return (
     <>
       <HeroBanner heroBanner={bannerData.length && bannerData[0]} />
-      {console.log(products)}
       <div className="products-heading">
         <h2>Best selling Product</h2>
         <p>Speakers of many variations</p>
@@ -16,6 +20,7 @@ const Home = ({ products, bannerData }) => {
           <Product key={product._id} product={product} />
         ))}
       </div>
+      <PromotionGrid promotionBanner={promotionData} />
       <FooterBanner footerBanner={bannerData.length && bannerData[0]} />
     </>
   );
@@ -28,10 +33,14 @@ export const getServerSideProps = async () => {
   const bannerQuery = '*[_type == "banner"]';
   const bannerData = await client.fetch(bannerQuery);
 
+  const promotionQuery = '*[_type == "promotion"]';
+  const promotionData = await client.fetch(promotionQuery);
+
   return {
     props: {
       products,
       bannerData,
+      promotionData,
     },
   };
 };
