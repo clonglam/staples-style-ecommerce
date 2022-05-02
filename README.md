@@ -34,3 +34,6 @@ This is a Ecommerce web application used <span style={font-style:italic; font-we
 <h2> comments </h2>
 Leave the comments and share your ideas.
 
+<h2> Special Thanks </h2>
+JS Mastery :https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+really thanks to JS Mastery provide many inspire ideas and correct skills and ways to excute
