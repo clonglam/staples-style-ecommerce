@@ -1,11 +1,11 @@
 
 
 ![cover_page](https://user-images.githubusercontent.com/86845927/166130454-2e7c13db-d12c-4c7b-89df-3714f03d2cca.png)
-<h1> E-commerce in Staples style</h1>
-<h2> Introduction </h2>
+# E-commerce in Staples style
+## Introduction
 This is a Ecommerce web application used <span style={font-style:italic; font-weight:bold;}> NextJS </span> & headlessCMS <span> Sanity </span>. 
 
-<h2> Dynamic Product Pages </h2>
+## Dynamic Product Pages
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86845927/166128162-289527fc-fbed-4de9-8d3c-34c3ac5cf8f5.gif)
 
