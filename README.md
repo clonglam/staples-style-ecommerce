@@ -3,7 +3,7 @@
 ![cover_page](https://user-images.githubusercontent.com/86845927/166130454-2e7c13db-d12c-4c7b-89df-3714f03d2cca.png)
 # E-commerce in Staples style
 ## Introduction
-This is a Ecommerce web application used *NextJS* & *headlessCMS Sanity* . In this project I mainly want to create a basic E commerce system, included view product => add Product to cart => handle payment.
+This is a Ecommerce web application used *NextJS* & *headlessCMS Sanity*. In this project I mainly want to create a basic E commerce system, included view product => add Product to cart => handle payment.
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/86845927/180926802-8da0fac2-14f4-4a1c-b782-f0936da6ca0a.png">
 
 ## Endpoints
@@ -36,4 +36,4 @@ Strip Api is easy to use, just simply pass the product data and quantity by usin
 
 ## Special Thanks
 JS Mastery :https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
-really thanks to JS Mastery provide many inspire ideas and correct skills and ways to excute
+really thanks to JS Mastery provide many inspire ideas and skills and ways to excute
