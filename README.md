@@ -3,7 +3,7 @@
 ![cover_page](https://user-images.githubusercontent.com/86845927/166130454-2e7c13db-d12c-4c7b-89df-3714f03d2cca.png)
 # E-commerce in Staples style
 ## Introduction
-This is a Ecommerce web application used <span style={font-style:italic; font-weight:bold;}> NextJS </span> & headlessCMS <span> Sanity </span>. In this project I mainly want to create a basic E commerce system, included view product => add Product to cart => handle payment.
+This is a Ecommerce web application used *NextJS* & *headlessCMS Sanity* . In this project I mainly want to create a basic E commerce system, included view product => add Product to cart => handle payment.
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/86845927/180926802-8da0fac2-14f4-4a1c-b782-f0936da6ca0a.png">
 
 ## Endpoints
