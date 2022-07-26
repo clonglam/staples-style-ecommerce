@@ -4,19 +4,18 @@
 # E-commerce in Staples style
 ## Introduction
 This is a Ecommerce web application used <span style={font-style:italic; font-weight:bold;}> NextJS </span> & headlessCMS <span> Sanity </span>. In this project I mainly want to create a basic E commerce system, included view product => add Product to cart => handle payment.
+<img width="1247" alt="image" src="https://user-images.githubusercontent.com/86845927/180926802-8da0fac2-14f4-4a1c-b782-f0936da6ca0a.png">
 
 ## Endpoints
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/86845927/180925940-eb7d7a97-844d-4c8c-a1fa-4fb8f2542650.png">
 
+## Data Schema
+I want to keep it simple, so I only included basic Product info and User info in this project. Schema design as the below
 
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/86845927/180928172-31abb34e-6cac-4996-ab84-793089aa3430.png">
 
-## Public Endpoints
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/86845927/166131179-8b29c55a-f3a2-4f38-90e7-492f82a543fb.png">
-
-Design a good schema is important for db, 
-
-<h2> comments </h2>
-Leave the comments and share your ideas.
 
 
 ## Dynamic Product Pages
