@@ -7,7 +7,7 @@ This is a Ecommerce web application used *NextJS* & *headlessCMS Sanity*. In thi
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/86845927/180926802-8da0fac2-14f4-4a1c-b782-f0936da6ca0a.png">
 
 ## Endpoints
-<img width="722" alt="image" src="https://user-images.githubusercontent.com/86845927/180925940-eb7d7a97-844d-4c8c-a1fa-4fb8f2542650.png">
+<img width="722" alt="Endpoints_img" src="https://user-images.githubusercontent.com/86845927/180925940-eb7d7a97-844d-4c8c-a1fa-4fb8f2542650.png">
 
 ## Data Schema
 I want to keep it simple, so I only included basic Product info and User info in this project. Schema design as the below
@@ -32,7 +32,7 @@ In this Project we mainly need to set user and cart as global elements, therefor
 ![strip](https://user-images.githubusercontent.com/86845927/166130963-dcc92564-9b1e-497a-b633-fa6d53423e55.gif)
 
 using third party api can reduce many workload, in small ecommerce application using Payment Api like Strip or Square is more cost effective than build one by myself.
-Strip Api is easy to use, just simply pass the product data and quantity by using json to the API. Strip Api will return status 200 / 4XX, 200 = success and error do some error handle. </p>
+Strip Api is easy to use, just simply pass the product data and quantity by using json to the API. Strip Api will return status 200 / 4XX, 200 = success and error do some error handle.
 
 ## Special Thanks
 JS Mastery :https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
